@@ -1,5 +1,5 @@
 # Pure-CSS-Sidenav
-> This project is created to demonstrate the JavaScript-free sidenav example by using pure-CSS with CSS animations. Check this [article] (https://medium.com/@safaerden/a-simple-recipe-to-create-animated-sidenav-without-javascript-539219337ea5) for detailed indformation.
+> This project is created to demonstrate the JavaScript-free sidenav example by using pure-CSS with CSS animations. Check this [article](https://medium.com/@safaerden/a-simple-recipe-to-create-animated-sidenav-without-javascript-539219337ea5) for detailed indformation.
 
 ## Gif Shot
 
